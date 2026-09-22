@@ -41,6 +41,7 @@ Hey, I'm Vipul Sontakke! 👋
 - Cloud governance and compliance
 - Infrastructure performance optimization
 - Power BI dashboards and data analysis
+- Linux and Bash scripting
 
 ---
 
@@ -57,10 +58,25 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 
 ---
 
+### 🐧 Linux & Bash Scripting
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+- Linux command-line operations
+- Bash scripting
+- Shell scripting
+- File handling
+- Input validation
+- Basic Linux automation
+
+---
+
 ### 🔧 Infrastructure as Code & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=terraform,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=terraform,docker,git,github" />
 </p>
 
 - Terraform
@@ -68,7 +84,6 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 - Docker
 - AWS CI/CD
 - Git & GitHub
-- Linux
 
 ---
 
@@ -160,6 +175,20 @@ Upgraded Terraform configurations across **15 repositories**.
 
 ---
 
+### 🔐 Linux Secrets Manager — Bash Project
+
+A Bash-based command-line authentication project for user registration and login using Linux file handling and shell scripting.
+
+Demonstrates Bash fundamentals including input validation, `grep`, file management, conditional logic, and password handling.
+
+**Technologies:**
+
+`Linux` `Bash` `Shell Scripting` `grep` `File Handling`
+
+**🔗 [GitHub Project](https://github.com/sontakkevipul/linux-secrets-manager)**
+
+---
+
 ### 🔹 Power BI Sales Dashboard
 
 Developed an interactive Power BI dashboard for sales analysis by integrating data from multiple sources.
@@ -224,7 +253,7 @@ AISSMS College of Engineering, Pune
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/vipul-sontakke/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -238,4 +267,4 @@ AISSMS College of Engineering, Pune
 
 ⭐ **Thanks for visiting my profile!**
 
-💬 Feel free to connect with me for discussions around **AWS, Cloud Engineering, Automation, Security, and DevOps.**
+💬 Feel free to connect with me for discussions around **AWS, Cloud Engineering, Linux, Automation, Security, and DevOps.**
