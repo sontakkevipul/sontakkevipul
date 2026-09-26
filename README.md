@@ -6,42 +6,51 @@ Hey, I'm Vipul Sontakke! 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E7F9A&center=true&width=500&lines=AWS+Cloud+Engineer;AWS+Administrator;Cloud+Security+%26+Governance;Cloud+Automation+%26+Cost+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E7F9A&center=true&width=550&lines=AWS+Cloud+Engineer;AWS+Administrator;Cloud+Security+%26+Governance;Cloud+Automation+%26+Cost+Optimization" alt="Typing SVG" />
   </a>
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-☁️ AWS Cloud Engineer with **5+ years of experience** managing cloud infrastructure
+☁️ AWS Cloud Engineer with **5+ years of experience** managing AWS cloud infrastructure.
 
-🏢 Experienced in managing **30+ AWS accounts** across production and non-production environments
+🏢 Experienced in supporting **30+ AWS accounts** across production and non-production environments.
 
-🔐 Focused on **AWS security, IAM governance, compliance, monitoring, and cloud governance**
+🔐 Focused on **AWS security, IAM governance, compliance, monitoring, and cloud governance**.
 
-💰 Experienced in **AWS cost optimization**, including rightsizing, scheduling automation, Compute Optimizer, and Savings Plans
+💰 Experienced in **AWS cost optimization**, including rightsizing, scheduling automation, Compute Optimizer, and Savings Plans.
 
-⚙️ Passionate about **cloud automation** using AWS Lambda, Terraform, and scripting
+⚙️ Experienced in **AWS automation** using Lambda, Terraform, Python, Bash, and AWS services.
 
-📊 Interested in **Cloud, Automation, Data Analytics, and AI**
+📊 Interested in **Cloud Engineering, Automation, Data Analytics, and AI**.
 
-📍 Based in **Pune, Maharashtra, India**
+📍 Based in **Pune, Maharashtra, India**.
 
 ---
 
 ## 🚀 What I Work On
 
 - Managing multi-account AWS environments
-- AWS infrastructure provisioning and automation
+- AWS infrastructure administration and automation
 - IAM access governance and security controls
-- AWS Config, GuardDuty, Security Hub and CloudWatch
+- AWS Config, GuardDuty, Security Hub and CloudTrail
 - EC2 and RDS cost optimization
 - Infrastructure as Code using Terraform
 - AWS Lambda-based automation
-- Cloud monitoring, alerting and health checks
+- AWS resource monitoring and health checks
 - Cloud governance and compliance
-- Infrastructure performance optimization
-- Power BI dashboards and data analysis
+- AWS Backup and resource configuration reporting
+- AWS certificate monitoring
+- EC2 disk-space monitoring
+- AWS Personal Health Dashboard (PHD) notifications
+- AWS service-limit monitoring
+- AWS resource tagging and governance
+- Automated email reporting using Amazon SES
 - Linux and Bash scripting
+- Python automation and scripting
+- Power BI dashboards and data analysis
 
 ---
 
@@ -53,8 +62,28 @@ Hey, I'm Vipul Sontakke! 👋
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-**AWS Services:**  
-EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • AWS Config • GuardDuty • Security Hub • Inspector • AWS Organizations • AWS Backup • CloudFormation
+**AWS Services:**
+
+EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • AWS Config • GuardDuty • Security Hub • Inspector • AWS Organizations • AWS Backup • CloudFormation • ACM • EventBridge • SES
+
+---
+
+### 🐍 Python
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Python scripting
+- File handling
+- Exception handling
+- Data structures
+- Input validation
+- CSV processing
+- Automation
+- Application logic
+
+🔗 **[Python Projects](https://github.com/sontakkevipul/python-projects)**
 
 ---
 
@@ -69,7 +98,9 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 - Shell scripting
 - File handling
 - Input validation
-- Basic Linux automation
+- Linux automation
+- Process management
+- Disk management
 
 ---
 
@@ -82,8 +113,9 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 - Terraform
 - CloudFormation
 - Docker
-- AWS CI/CD
 - Git & GitHub
+- CI/CD
+- Infrastructure automation
 
 ---
 
@@ -95,21 +127,20 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 - AWS Config
 - Amazon GuardDuty
 - AWS Security Hub
+- AWS Inspector
+- AWS Organizations
 - Compliance Audits
 - Cloud Governance
-- Network Segmentation
+- Resource Tagging
+- Network Security
 
 ---
 
 ### 📊 Monitoring & Analytics
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 - Amazon CloudWatch
 - AWS Config
-- CloudTrail
+- AWS CloudTrail
 - Power BI
 - Python
 - Jira
@@ -117,31 +148,52 @@ EC2 • VPC • IAM • S3 • RDS • Lambda • CloudWatch • CloudTrail • 
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🔹 AWS Multi-Account Health Check Automation
+## ☁️ AWS Projects
 
-Automated daily health checks across a multi-account AWS environment using **AWS Lambda, IAM and Amazon SES**.
+A collection of AWS automation, monitoring, security, governance, and cloud administration projects.
 
-**Key Features:**
+### 🔹 AWS Multi-Account Health Check & Reporting
 
-- Automated health checks across **30+ AWS accounts**
-- Generated automated reports for AWS infrastructure
-- Monitored AWS Backup status
-- Monitored EC2 disk usage
-- Checked AWS notifications and certificates
-- Generated and distributed reports using Amazon SES
-- Reduced manual execution time from **hours to minutes**
+Developed AWS automation solutions for collecting infrastructure and service information across multiple AWS accounts and generating automated reports.
+
+**Projects / Automation Areas:**
+
+- AWS Backup status reporting
+- AWS Config resource reporting
+- AWS ACM certificate monitoring
+- EC2 disk-space monitoring
+- AWS Personal Health Dashboard (PHD) notifications
+- AWS service-limit monitoring
+- AWS resource tagging reports
+- CloudWatch alert data collection
+- AWS resource health checks
+- Automated email reporting using Amazon SES
 
 **Technologies:**
 
-`AWS Lambda` `IAM` `SES` `AWS Backup` `EC2` `Python` `S3`
+`AWS Lambda` `Python` `IAM` `S3` `SES` `EventBridge` `AWS Config` `AWS Backup` `EC2` `ACM`
+
+🔗 **[AWS Projects Repository](https://github.com/sontakkevipul/aws-projects)**
 
 ---
 
-### 🔹 AWS Cost Optimization
+### 🔹 Automated Data Export Pipeline
 
-Implemented cloud cost optimization initiatives across AWS environments.
+Built an AWS-based automated data export pipeline for retrieving data from Amazon RDS, generating CSV reports, storing them in Amazon S3, and sending reports through Amazon SES.
+
+**AWS Services:**
+
+`EventBridge` `Lambda` `RDS` `S3` `SES` `IAM` `Secrets Manager`
+
+🔗 **[AWS Projects Repository](https://github.com/sontakkevipul/aws-projects)**
+
+---
+
+### 💰 AWS Cost Optimization
+
+Implemented AWS cost optimization initiatives across cloud environments.
 
 **Key Activities:**
 
@@ -150,9 +202,11 @@ Implemented cloud cost optimization initiatives across AWS environments.
 - Identifying underutilized resources
 - AWS Compute Optimizer
 - Savings Plans
-- Automated EC2/RDS start-stop schedules
+- EC2/RDS start-stop scheduling
+- Resource utilization analysis
 
-**Result:**  
+**Result:**
+
 Reduced AWS infrastructure costs by approximately **60%**.
 
 ---
@@ -167,7 +221,7 @@ Upgraded Terraform configurations across **15 repositories**.
 - Configuration compatibility updates
 - Deployment validation
 - Infrastructure standardization
-- Improved stability and maintainability
+- Improved infrastructure maintainability
 
 **Technologies:**
 
@@ -175,47 +229,70 @@ Upgraded Terraform configurations across **15 repositories**.
 
 ---
 
-### 🔐 Linux Secrets Manager — Bash Project
+## 🐍 Python Projects
 
-A Bash-based command-line authentication project for user registration and login using Linux file handling and shell scripting.
+A collection of Python projects demonstrating programming fundamentals, automation, file handling, data processing, and application development.
 
-Demonstrates Bash fundamentals including input validation, `grep`, file management, conditional logic, and password handling.
+**Projects include:**
+
+- ATM Management System
+- Employee Record Management
+- CSV Processing
+- Linux Log File Analysis
+- File Handling Projects
+- Python Automation Projects
+
+**Skills Demonstrated:**
+
+`Python` `Data Structures` `File Handling` `Exception Handling` `CSV` `Input Validation`
+
+🔗 **[Python Projects Repository](https://github.com/sontakkevipul/python-projects)**
+
+---
+
+## 🔐 Linux Projects
+
+A collection of Linux and Bash scripting projects demonstrating system administration, automation, file handling, and command-line operations.
+
+### Linux Secrets Manager
+
+A Bash-based command-line authentication project demonstrating Linux file handling, user registration, login validation, conditional logic, and shell scripting.
 
 **Technologies:**
 
 `Linux` `Bash` `Shell Scripting` `grep` `File Handling`
 
-**🔗 [GitHub Project](https://github.com/sontakkevipul/linux-secrets-manager)**
+🔗 **[Linux Projects Repository](https://github.com/sontakkevipul/linux-projects)**
 
 ---
 
-### 🔹 Power BI Sales Dashboard
+## 📊 Power BI Sales Dashboard
 
-Developed an interactive Power BI dashboard for sales analysis by integrating data from multiple sources.
+Developed an interactive Power BI dashboard for sales analysis.
 
 **Features:**
 
 - KPI tracking
 - Sales analysis
 - Interactive reports
+- Data visualization
 - Data-driven insights
-- Improved sales forecasting accuracy
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-🏅 **Xcelerate Award** — Ranked 3rd among 40 employees for AWS training and project delivery
+🏅 **Xcelerate Award** — Ranked 3rd among 40 employees for AWS training and project delivery.
 
-🏅 **On-the-Spot Recognition** — Recognized for teamwork and timely delivery of client requirements
+🏅 **On-the-Spot Recognition** — Recognized for teamwork and timely delivery of client requirements.
 
-☁️ Contributed to cloud governance and audit-readiness initiatives
+☁️ Contributed to cloud governance and audit-readiness initiatives.
 
-⚙️ Automated infrastructure operations to reduce manual effort
+⚙️ Automated infrastructure operations to reduce manual effort.
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified CloudOps Engineer – Associate
@@ -227,7 +304,7 @@ Developed an interactive Power BI dashboard for sales analysis by integrating da
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **Master's in Business Analytics**  
 Sinhgad Institute of Business Administration and Computer Applications, Pune
@@ -237,7 +314,7 @@ AISSMS College of Engineering, Pune
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VipulSontakke&show_icons=true&theme=default&hide_border=true" />
@@ -249,7 +326,7 @@ AISSMS College of Engineering, Pune
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="left">
 
@@ -267,4 +344,4 @@ AISSMS College of Engineering, Pune
 
 ⭐ **Thanks for visiting my profile!**
 
-💬 Feel free to connect with me for discussions around **AWS, Cloud Engineering, Linux, Automation, Security, and DevOps.**
+💬 Feel free to connect with me for discussions around **AWS, Cloud Engineering, Linux, Python, Automation, Security, DevOps, and Cloud Governance.**
